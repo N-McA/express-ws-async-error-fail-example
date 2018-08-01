@@ -1,0 +1,11 @@
+{
+  "name": "express-ws-async-error-fail-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "express-ws": "^4.0.0"
+  }
+}
